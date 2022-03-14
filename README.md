@@ -1,5 +1,8 @@
 # Snake-Game
 
-Olá Pessoal!
+## Oi, tudo bem? Dá uma olhada no meu código, certo? 🙃
 
-Meu Projeto Sobre Jogo-Snake-Game Já Foi Hospedado: https://franciscofelipe-br.github.io/Dino-Game/
+Projeto Hospedado: https://franciscofelipe-br.github.io/Dino-Game/
+
+
+## 🚀 Let's code! 🚀
